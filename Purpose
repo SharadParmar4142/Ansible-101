@@ -1,0 +1,3 @@
+Here we want to install Nginx into our servers(remotely) there can be thousands of such servers, the entire process and what things to take care of has been added in README file.
+Under playbook.yml we have all the configuration required for our Nginx to run properly. One can try using the same by following the instructions under README file.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
